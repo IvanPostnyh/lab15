@@ -1,0 +1,10 @@
+C:\MyFiles\Study\Simulation Models\Lab15\bin\Debug\Lab15.exe.config
+C:\MyFiles\Study\Simulation Models\Lab15\bin\Debug\Lab15.exe
+C:\MyFiles\Study\Simulation Models\Lab15\bin\Debug\Lab15.pdb
+C:\MyFiles\Study\Simulation Models\Lab15\obj\Debug\Lab15.csprojAssemblyReference.cache
+C:\MyFiles\Study\Simulation Models\Lab15\obj\Debug\Lab15.Form1.resources
+C:\MyFiles\Study\Simulation Models\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\MyFiles\Study\Simulation Models\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\MyFiles\Study\Simulation Models\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\MyFiles\Study\Simulation Models\Lab15\obj\Debug\Lab15.exe
+C:\MyFiles\Study\Simulation Models\Lab15\obj\Debug\Lab15.pdb
